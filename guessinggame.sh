@@ -26,4 +26,3 @@ done
 
 # L'utente ha indovinato il numero corretto
 echo "Congratulazioni, hai indovinato il numero di file nella directory corrente!"
-
